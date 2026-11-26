@@ -2,7 +2,7 @@
 
 **Estudante de Sistemas de Informação na Unicamp · Desenvolvedor Full-Stack & Mobile**
 
-Focado em construir aplicações web e mobile bem estruturadas, com código limpo, APIs tipadas e boa experiência de uso. Atualmente em busca de **estágio em desenvolvimento de software**.
+Focado em construir soluções completas de tecnologia — de bancos de dados, análise de dados e APIs tipadas até aplicações web e mobile com boa experiência de uso. Atualmente em busca de **estágio em Tecnologia da Informação** (desenvolvimento de software, dados, automação ou engenharia de sistemas).
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-nine-rho-h9omej170k.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rodrigo.kenji.kataoka%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.kenji.kataoka@gmail.com)
