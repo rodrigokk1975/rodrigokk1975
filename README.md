@@ -34,5 +34,5 @@ Focado em construir aplicações web e mobile bem estruturadas, com código limp
 
 <div align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigokk1975&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Rodrigo Kenji Kataoka" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigokk1975&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Rodrigo Kenji Kataoka" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigokk1975&layout=compact&theme=transparent&hide_border=true&locale=pt-br&hide=jupyter%20notebook" alt="Linguagens mais usadas por Rodrigo Kenji Kataoka" />
 </div>
