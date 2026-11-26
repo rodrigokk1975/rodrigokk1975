@@ -25,10 +25,14 @@ Focado em construir aplicações web e mobile bem estruturadas, com código limp
 
 ### Stack Técnica
 
-- **Linguagens:** TypeScript, JavaScript, Python, Dart, C, C++, PHP, SQL
-- **Front-end & Mobile:** React, Flutter, Tailwind CSS, Vite, HTML5, CSS3
-- **Back-end & Bancos de Dados:** Django, Django REST Framework, FastAPI, Node.js, Express, Socket.IO, Prisma ORM, PostgreSQL, SQLite, Firebase
-- **Ferramentas & Práticas:** Git, GitHub, Docker, APIs REST, JWT (SimpleJWT), pytest, Vitest, Zod, pandas
+> Tecnologias e ferramentas aplicadas na prática nos projetos web, mobile, APIs e análise de dados.
+
+- **Linguagens:** TypeScript, JavaScript (ES6+), Python, Dart, SQL, HTML5, CSS3, C, C++, PHP
+- **Front-End & Mobile:** React 19, Flutter, Tailwind CSS, Vite, React Router, Recharts, BLoC, dnd-kit, Design Responsivo, Acessibilidade (a11y)
+- **Back-End & APIs:** Node.js, Express, Django, Django REST Framework, FastAPI, Socket.IO, APIs REST, JWT / SimpleJWT, Zod, Pydantic, Resend, Helmet
+- **Bancos de Dados & Cloud:** PostgreSQL, Prisma ORM, SQLAlchemy, SQLite, Firebase (Auth & Cloud Firestore), Cloudinary
+- **Dados & Automação:** pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, BeautifulSoup4, Requests, httpx
+- **Testes, DevOps & Ferramentas:** Git, GitHub, Docker & Docker Compose, pytest, Vitest, Supertest, ESLint, Ruff, Monorepo (npm workspaces), Vercel
 
 ---
 
