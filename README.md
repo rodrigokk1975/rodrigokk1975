@@ -13,7 +13,7 @@ Focado em construir aplicações web e mobile bem estruturadas, com código limp
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[FinPulse](https://github.com/rodrigokk1975/financial-control)** | Aplicação full-stack de controle financeiro pessoal com autenticação JWT, gestão de contas, transações filtráveis e dashboard analítico. | `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` |
+| **[FinPulse](https://github.com/rodrigokk1975/financial-control)** | Aplicação full-stack de controle financeiro pessoal com autenticação JWT, gestão de contas, transações filtráveis e dashboard analítico. | `React` `TypeScript` `Python` `Django` `DRF` `PostgreSQL` `pytest` |
 | **[PulseChat](https://github.com/rodrigokk1975/real-time-chat)** | Chat em tempo real com salas, WebSockets autenticados via JWT, presença online multi-aba e testes automatizados em monorepo. | `Node.js` `Socket.IO` `TypeScript` `React 19` `Prisma` `Vitest` |
 | **[Studio Agenda](https://github.com/rodrigokk1975/booking-system)** | Plataforma full-stack de agendamento com RBAC (cliente, profissional e admin), cálculo de disponibilidade, prevenção de conflitos no PostgreSQL, política de cancelamento de 24h e notificações por e-mail. | `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Resend` |
 | **[Dashboard Econômico](https://github.com/rodrigokk1975/dashboard)** | Dashboard interativo de indicadores do Banco Central (Dólar, Selic e IPCA) integrando pipeline de dados em Python com cache TTL e front-end React. | `Python` `FastAPI` `pandas` `React` `TypeScript` `Recharts` |
@@ -25,8 +25,8 @@ Focado em construir aplicações web e mobile bem estruturadas, com código limp
 
 - **Linguagens:** TypeScript, JavaScript, Python, Dart, C, C++, PHP, SQL
 - **Front-end & Mobile:** React, Flutter, Tailwind CSS, Vite, HTML5, CSS3
-- **Back-end & Bancos de Dados:** Node.js, Express, FastAPI, Socket.IO, Prisma ORM, PostgreSQL, SQLite, Firebase
-- **Ferramentas & Práticas:** Git, GitHub, APIs REST, JWT, Vitest, Zod, pandas
+- **Back-end & Bancos de Dados:** Django, Django REST Framework, FastAPI, Node.js, Express, Socket.IO, Prisma ORM, PostgreSQL, SQLite, Firebase
+- **Ferramentas & Práticas:** Git, GitHub, Docker, APIs REST, JWT (SimpleJWT), pytest, Vitest, Zod, pandas
 
 ---
 
