@@ -4,6 +4,7 @@
 
 Focado em construir aplicações web e mobile bem estruturadas, com código limpo, APIs tipadas e boa experiência de uso. Atualmente em busca de **estágio em desenvolvimento de software**.
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Online-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-nine-rho-h9omej170k.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-rodrigo.kenji.kataoka%40gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white)](mailto:rodrigo.kenji.kataoka@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Kenji%20Kataoka-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-kenji-kataoka-5597113b4/)
 
@@ -18,6 +19,7 @@ Focado em construir aplicações web e mobile bem estruturadas, com código limp
 | **[Studio Agenda](https://github.com/rodrigokk1975/booking-system)** | Plataforma full-stack de agendamento com RBAC (cliente, profissional e admin), cálculo de disponibilidade, prevenção de conflitos no PostgreSQL, política de cancelamento de 24h e notificações por e-mail. | `React` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Resend` |
 | **[Dashboard Econômico](https://github.com/rodrigokk1975/dashboard)** | Dashboard interativo de indicadores do Banco Central (Dólar, Selic e IPCA) integrando pipeline de dados em Python com cache TTL e front-end React. | `Python` `FastAPI` `pandas` `React` `TypeScript` `Recharts` |
 | **[Obra BOX](https://github.com/rodrigokk1975/obrabox)** | Aplicativo mobile para gestão de obras de engenharia civil com checklists hierárquicos, evidências fotográficas e fluxo de validação. | `Flutter` `Dart` `Firebase` `Cloudinary` |
+| **[Portfólio Pessoal](https://portfolio-nine-rho-h9omej170k.vercel.app/)** ([Código](https://github.com/rodrigokk1975/portfolio)) | Site pessoal responsivo com tema claro/escuro, filtros interativos de projetos, navegação acessível e deploy contínuo na Vercel. | `HTML5` `CSS3` `JavaScript` `Vercel` |
 
 ---
 
